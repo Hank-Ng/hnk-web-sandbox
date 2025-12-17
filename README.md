@@ -3,5 +3,3 @@ Sandbox website used to play around with web design related languages - JavaScri
 Currently inactive
 
 Last update some time during 2023
-
-https://hank-ng.github.io/pochitaWeb/index.html
